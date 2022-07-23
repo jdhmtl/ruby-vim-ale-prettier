@@ -1,3 +1,4 @@
 {
-  "singleQuote": true
+  "singleQuote": true,
+  "rubyPlugins": "plugin/single_quotes"
 }
